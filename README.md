@@ -20,6 +20,8 @@ The goal of this project is to practice working with CSV datasets, train differe
 - Lasso Regression
 - Decision Tree Regressor
 - Random Forest Regressor
+- KNN Regression
+- SVM Regression
 - Gradient Boosting Regressor
 
 ## Tools and libraries
