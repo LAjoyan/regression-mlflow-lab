@@ -3,13 +3,13 @@ name = "regression-mlflow-lab"
 version = "0.1.0"
 description = "A machine learning lab for experimenting with regression models"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.9",
-    "mlflow>=1.27.0",
+    "mlflow>=3.12.0",
     "numpy>=2.4.6",
-    "pandas>=3.0.3",
+    "pandas>=2.3.3",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
 ]
