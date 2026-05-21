@@ -2,7 +2,12 @@
 
 This repository contains my experiments with regression models in machine learning.
 
-The goal of this project is to practice working with CSV datasets, train different regression models, evaluate their performance, and track experiments using MLflow.
+The goal of this project is to practice training different regression models, evaluate their performance, and track experiments using MLflow.
+
+This project uses different types of datasets for regression experiments:
+
+- CSV datasets loaded with Pandas
+- Built-in regression datasets from Scikit-learn
 
 ## What this repository includes
 
