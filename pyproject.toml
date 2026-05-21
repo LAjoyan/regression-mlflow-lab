@@ -1,7 +1,7 @@
 [project]
 name = "regression-mlflow-lab"
 version = "0.1.0"
-description = "Add your description here"
+description = "A machine learning lab for experimenting with regression models"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
