@@ -53,6 +53,12 @@ To find the absolute best model for my dataset without data leakage, I structure
 2. The Tree & Distance Bracket (Notebook 2): I tested models that don't need scaling (Decision Tree, Random Forest, Gradient Boosting) using raw data. To keep the comparison fair, I also included KNN, but wrapped it in a scikit-learn Pipeline with MinMaxScaler. This ensured the distance-based algorithm got scaled data without altering the raw data fed to the tree models!
 3. The Grand Champion: Ultimately, **Random Forest Regressor** outperformed all other models, achieving the highest R-squared (R²) score and the lowest RMSE on this dataset.
 
+**Random Forest Regressor results:**
+   - MAE: 0.5607
+   - MSE: 0.4512
+   - RMSE: 0.6717
+   - R² Score: 0.9825
+
 ## Tools and libraries
 
 - Python
