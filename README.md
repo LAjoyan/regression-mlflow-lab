@@ -8,7 +8,7 @@ This project uses a CSV datasets loaded with Pandas for regression experiments
 
 ## What this repository includes
 
-- CSV datasets
+- CSV dataset
 - Data visualization and preparation
 - Scikit-learn Pipeline integration for robust preprocessing
 - Regression model training & evaluation
